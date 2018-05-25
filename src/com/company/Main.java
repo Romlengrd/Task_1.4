@@ -27,19 +27,6 @@ public class Main {
             }
             System.out.println(max);
 
-
-
-
-
-           // double[] f = new double[n];
-            //int i;
-           // double x = (double) a;
-
-            //for (i = 0; i < n; i++) {
-              //  f[i] = Math.tan((2*x))-3;
-               // System.out.printf("Значение функции %f Аргумент %.0f%n", f[i], x);
-               // x += (double) h;
-
             }
         catch (InputMismatchException e) {
             System.out.println("Введено не корректное число/символ");
