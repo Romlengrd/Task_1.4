@@ -16,7 +16,6 @@ public class Main {
             double[] a=new double[2*n];
             for (int i=0; i<a.length;i++) {
                 a[i]=sc.nextDouble();
-               // System.out.println(a[i]);
             }
             sc.close();
             int first = 0;
